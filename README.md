@@ -1,3 +1,1 @@
 # sampleJavaApplication
-
-#test
